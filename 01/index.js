@@ -14,7 +14,7 @@ const usuario = {
      email: "eldergsilva@gmail.com",
      telefone: "(11) 90552-8220",  
      data_nascimento: "19/12/1984",  
-     endereco: endereco
+     endereco
 };
 
 console.log(usuario);
