@@ -40,10 +40,7 @@ _Lembre-se que após adicionar elementos no array `aulas, o resultado final para
     id: 1234,
     nome: "Lógica de programação",
     aulas: [
-        {
-            identificador: 1,
-            nome_da_aula: "Introdução a programação"
-        },
+       ,
         {
             identificador: 2,
             nome_da_aula: "Variáveis"
@@ -60,4 +57,7 @@ _Lembre-se que após adicionar elementos no array `aulas, o resultado final para
 }
 ```
 
-Faça o teste com outros exemplos.
+Faça o teste com outros exemplos. {
+            identificador: 1,
+            nome_da_aula: "Introdução a programação"
+        }
