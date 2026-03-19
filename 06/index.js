@@ -32,5 +32,5 @@ for (let usuario of usuarios){
  
 
 console.log(adultos);
-console.log(jovens);
 
+console.log(jovens);
